@@ -128,8 +128,3 @@ Type `exit` or `quit` to stop.
 - Train models for multiple tickers simultaneously
 - Build a web dashboard (e.g., with Streamlit)
 - Add evaluation metrics (MAE, RMSE, R²)
-
----
-
-## 📜 License
-This project is open-source and available for personal or educational use.
